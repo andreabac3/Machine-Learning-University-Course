@@ -1,7 +1,7 @@
 # Machine Learning University Course at Sapienza University of Rome
 [![License: GPL v3](https://img.shields.io/badge/-Sapienza%20University%20of%20Rome-red)](https://www.uniroma1.it/en)
 
-Repository of the code of the different challenges (midterm) during the Machine Learning course at Sapienza.<br>
+Repository of the different challenges (midterm) during the Machine Learning course at Sapienza.<br>
 
 Currently, the code of the first challenge is present, which is worth 10% of the final score. <br>
 
