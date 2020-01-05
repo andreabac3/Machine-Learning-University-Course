@@ -13,4 +13,4 @@ Grade: 30/30
 
 ## Authors
 
-* **Andrea Bacciu**  - [github](https://github.com/andreabac3)
+*   **Andrea Bacciu**  - [github](https://github.com/andreabac3)
